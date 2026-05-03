@@ -102,5 +102,5 @@ change-me-admin-password
 修改密钥后记得重启，命令
 
 ```
-sudo docker compose down && docker compose up -d
+sudo docker compose down && sudo docker compose up -d
 ```
